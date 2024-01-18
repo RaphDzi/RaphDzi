@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there, I'am Raphael 👋
+### A student in IT 👨🏻‍🎓, 
+### I like development, especially Web development 👨🏻‍💻
 
-<!--
-**RaphDzi/RaphDzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑🏻 I'am a French student in IT, I like development, especially, web development.
 
-Here are some ideas to get you started:
+I study in the north of France 📍 , and I want to become engineer in IT development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----------
+
+🖥️ I develop with :
+ - PHP 8.2 vanilla or laravel framework,
+ - HTML of course,
+ - CSS with a little of tailwind framework
+ - C# in my spare time
+ - and others langages like Python, PowerShell or Bash
+---------
+I'am open to work, you can find the link for my LinkedIn profile at the right of your screen (if you are on computer).
+
+If you have any question 🤔, I can help you, just chat me, bye ! 🙋🏻‍♂️
