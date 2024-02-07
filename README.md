@@ -1,5 +1,5 @@
 # Hi there, I'am Raphael 👋
-### A student in IT 👨🏻‍🎓, 
+### An IT student 👨🏻‍🎓, 
 ### I like development, especially Web development 👨🏻‍💻
 
 🧑🏻 I'am a French student in IT, I like development, especially, web development.
@@ -18,4 +18,4 @@ I study in the north of France 📍 , and I want to become engineer in IT develo
 ---------
 I'am open to work, you can find the link for my LinkedIn profile at the right of your screen (if you are on computer).
 
-If you have any question 🤔, I can help you, just chat me, bye ! 🙋🏻‍♂️
+If you have any question, I can help you, just chat me, bye ! 🙋🏻‍♂️
