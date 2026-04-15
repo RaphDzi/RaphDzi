@@ -2,20 +2,22 @@
 ### An IT student 👨🏻‍🎓, 
 ### I like development, especially Web development 👨🏻‍💻
 
-🧑🏻 I'am a French student in IT, I like development, especially, web development.
+🧑🏻 I'am a French student in IT, I like development, especially, task automation.
 
-I study in the north of France 📍 , and I want to become engineer in IT development.
+I study in the north of France 📍 , and I want to become engineer in IT RPA - robotic process automation.
 
 ----------
 
 🖥️ I develop with :
- - PHP 8.2 vanilla or laravel framework,
- - HTML of course,
- - CSS with a little of tailwind framework,
+ - UiPath RPA tool
+ - Laserfiche Forms & Workflow Designer
+ - Visual Basic (VB) for UiPath scripting
+ - PHP 8.2 vanilla and laravel framework,
+ - CSS with tailwind framework,
  - C# in my spare time,
  - SQL on PhpMyAdmin,
- - and others langages like Python, PowerShell or Bash
+ - Python, PowerShell and Bash
 ---------
-I'am open to work, you can find the link for my LinkedIn profile at the right of your screen (if you are on computer).
+I'm open to work, you can find the link for my LinkedIn profile.
 
 If you have any question, I can help you, just chat me, bye ! 🙋🏻‍♂️
