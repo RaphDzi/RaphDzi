@@ -8,6 +8,7 @@
 
   🇫🇷 Northern France
 
+  [![Website](https://img.shields.io/badge/Website-raphdzi.github.io-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://raphdzi.github.io)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raphael-doizi/)
   [![GitHub](https://img.shields.io/badge/GitHub-RaphDzi-181717?style=for-the-badge&logo=github)](https://github.com/RaphDzi)
 
@@ -140,6 +141,7 @@ I'm always interested in discovering new technologies, discussing software engin
 
 <div align="center">
 
+  [![Website](https://img.shields.io/badge/Visit_my_website-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://raphdzi.github.io)
   [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-doizi/)
 
   **Thanks for visiting my profile! Have a great day! 🚀**
