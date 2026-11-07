@@ -94,15 +94,18 @@ A Laravel-based web application designed to help a canine education association 
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RaphDzi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Raphael's GitHub Stats"/>
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphDzi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-
-  <br/><br/>
-
-  <img width="65%" src="https://streak-stats.demolab.com?user=RaphDzi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg">
+    <img src="./assets/overview.light.svg" alt="GitHub Overview" width="100%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg">
+    <img src="./assets/languages.light.svg" alt="Top Languages" width="100%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg">
+    <img src="./assets/contributions.light.svg" alt="GitHub Contributions and Streaks" width="100%">
+  </picture>
 </div>
 
 ---
